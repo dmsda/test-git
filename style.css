@@ -2,4 +2,26 @@ body {
     background-color: #333;
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body h1 {
+    color:red
+}
+
+h2 {
+    color:rosybrown;
+}
+
+h3 {
+    color:royalblue
+}
+
+h4 {
+    color: seagreen;
+}
+
+p {
+    text-align: center;
+    color:silver
 }
